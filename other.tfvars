@@ -1,0 +1,5 @@
+project = "other"
+vpc_cidr_block = "10.1.0.0/24"
+dmz_cidr_block = "10.1.0.0/28"
+internal_a_cidr_block = "10.1.0.64/26"
+internal_b_cidr_block = "10.1.0.128/26"
